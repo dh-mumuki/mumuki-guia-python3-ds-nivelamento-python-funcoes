@@ -1,2 +1,1 @@
-def soma(a, b):
-  a + b
+# Seu código aqui
