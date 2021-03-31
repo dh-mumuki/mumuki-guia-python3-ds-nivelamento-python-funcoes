@@ -1,4 +1,4 @@
 class Test(unittest.TestCase):
 
   def positivos(self):
-    self.somando(positivos(3, 5), 8)
+    self.assertAlmostEqual(soma(2, 3), 5)
