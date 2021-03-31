@@ -1,0 +1,1 @@
+Utilizando funções para obter resultados e automatização
