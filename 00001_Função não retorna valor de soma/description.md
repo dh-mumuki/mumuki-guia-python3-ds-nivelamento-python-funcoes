@@ -7,8 +7,10 @@ def soma(a, b):
 
 Exemplos:
 
-```
+
+``` java
 soma(1, 3) -> 4
 
-soma(-10, 7) -> -3
+soma(2, 3) -> 5
 ```
+
