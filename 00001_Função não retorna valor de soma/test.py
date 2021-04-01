@@ -2,7 +2,7 @@ import random
 
 class Test(unittest.TestCase):
 
-  def positivos(self):
+  def test_somas(self):
     # Soma de positivos
     self.assertAlmostEqual(soma(2, 3), 5)
     self.assertAlmostEqual(soma(1, 2), 3)
